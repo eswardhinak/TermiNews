@@ -1,3 +1,3 @@
 
-print("Terminal News --  eswardhinak")
-fp = open("keys", "w+")
+print("Setup Script")
+
